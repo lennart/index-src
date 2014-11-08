@@ -1,0 +1,19 @@
+{
+  "name": "lennart.melzer.it",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lennart Melzer",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-sourcemaps": "^1.2.8",
+    "gulp-less": "^1.3.6",
+    "gulp": "^3.8.10",
+    "gulp-watch": "^1.1.0",
+    "bootstrap": "^3.3.0",
+    "gulp-plumber": "^0.6.6"
+  }
+}

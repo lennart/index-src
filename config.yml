@@ -1,0 +1,7 @@
+baseurl: "http://yourSiteHere"
+languageCode: "en-us"
+title: "Lennart Melzer"
+Taxonomies:
+  state: "states"
+  category: "categories"
+  motivation: "motivations"

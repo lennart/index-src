@@ -1,0 +1,12 @@
+<div class="media">
+    <a href="{{ .Permalink }}" class="media-left">
+        <img src="{{ .Site.BaseUrl }}/img/thumbs/{{ .Params.image }}" alt="">
+    </a>
+    <div class="media-body">
+        <h4>{{ .LinkTitle }}</h4>
+
+        <p>
+            {{ .Summary }}
+        </p>
+    </div>
+</div>
