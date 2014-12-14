@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leaving Home on Lennart Melzer</title>
-    <link>http://lennart.github.io/motivations/leaving-home/</link>
+    <link>http://works.lmaa.name/motivations/leaving-home/</link>
     <description>Recent content in Leaving Home on Lennart Melzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
     <lastBuildDate>Sun, 01 Aug 2010 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://lennart.github.io/motivations/leaving-home/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://works.lmaa.name/motivations/leaving-home/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>artflakes</title>
-      <link>http://lennart.github.io/artflakes/</link>
+      <link>http://works.lmaa.name/artflakes/</link>
       <pubDate>Sun, 01 Aug 2010 00:00:00 UTC</pubDate>
       
-      <guid>http://lennart.github.io/artflakes/</guid>
+      <guid>http://works.lmaa.name/artflakes/</guid>
       <description>&lt;p&gt;a berlin startup I worked for for about 2 years.&lt;/p&gt;
 </description>
     </item>
