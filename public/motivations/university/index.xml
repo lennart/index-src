@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University on Lennart Melzer</title>
+    <link>http://localhost:1313/motivations/university/</link>
+    <description>Recent content in University on Lennart Melzer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
+    <lastBuildDate>Sun, 01 Feb 2009 00:00:00 UTC</lastBuildDate>
+    <atom:link href="http://localhost:1313/motivations/university/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Head tracking museum</title>
+      <link>http://localhost:1313/product/head-tracking-museum/</link>
+      <pubDate>Sun, 01 Feb 2009 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/head-tracking-museum/</guid>
+      <description>&lt;p&gt;Tracking heads of people viewing a virtual exhibition. I worked on the OpenGL camera configuration to make everything look &lt;em&gt;correct&lt;/em&gt;, i.e. you think you a looking through a window into a museum.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Minority WiiPort</title>
+      <link>http://localhost:1313/product/minority-wiiport/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/minority-wiiport/</guid>
+      <description>&lt;p&gt;Tracking hand gestures from a WiiMote mounted above a projection surface, letting you pinch &amp;amp; zoom images on the big screen from the tip of your fingers. I wrote the 3D rendering code using the OGRE Game engine.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,3 +5,15 @@ Taxonomies:
   state: "states"
   category: "categories"
   motivation: "motivations"
+copyright: "&copy; 2014 — Lennart Melzer; all rights reversed"
+menu:
+  footer:
+      - Name: "Current"
+        Pre: "<span class='glyphicon glyphicon-play'></span>"
+        Identifier: "in-progress"
+      - Name: "Past"
+        Pre: "<span class='glyphicon glyphicon-stop'></span>"
+        Identifier: "past"
+      - Name: "Failed"
+        Pre: "<span class='glyphicon glyphicon-pause'></span>"
+        Identifier: "failed"

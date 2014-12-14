@@ -1,8 +1,18 @@
-  
   <div class="container">
+	  <div class="row">
+	  	<div class="col-xs-12">
+	  		<ul class="footer-menu menu nav">
+	  		{{ range .Site.Menus.footer }}
+	  			  <li>
+	  			  	<a href="#{{ .Identifier}}">{{ .Pre }}&nbsp;<span>{{ .Name }}</span></a>
+	  			  </li>
+	  		{{ end }}	
+	  		</ul>
+	  	</div>
+	  </div>
     <div class="row">
       <div class="col-xs-12">
-        <small>&copy; 20xx — Lennart Melzer</small>
+        <small>{{ .Site.Copyright | safeHtml }}</small>
       </div>
     </div>
   </div>

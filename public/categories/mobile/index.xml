@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile on Lennart Melzer</title>
+    <link>http://localhost:1313/categories/mobile/</link>
+    <description>Recent content in Mobile on Lennart Melzer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
+    <lastBuildDate>Sun, 01 Jun 2014 00:00:00 UTC</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/mobile/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Brave New Work</title>
+      <link>http://localhost:1313/product/bravenewwork_info/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/bravenewwork_info/</guid>
+      <description>&lt;p&gt;An audiowalk through the center of berlin. Guiding visitors through a dozen of handpicked locations throughout referring to the theme of &lt;em&gt;work&lt;/em&gt;. Places are narrated by an ironic voice, while walks between spots contain music and/or interviews with politicans, artists or plain workers regarding the current and past understanding of &amp;ldquo;what is work?&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;While Sinja Krüger selected and elaborated on each spots text for about one year for her master thesis, recording, composition of music, interviews, cutting as well as the whole mobile web application has been built within about a month of hard work by a team of six people.&lt;/p&gt;
+
+&lt;p&gt;A friend of mine and I helped conceptualizing and building the mobile app which was planned to go to the apple store and ended up being a full-fledged statically built website that downloads all content onto visitors smartphones and runs completely offline for the duration (roughly 80 minutes) of the walk with just GPS turned on.&lt;/p&gt;
+
+&lt;p&gt;While I&amp;rsquo;m writing this is still an unfinished project concerning the web application as there are some bugs to be fixed.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

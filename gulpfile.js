@@ -1,5 +1,6 @@
 var gulp = require('gulp')
   , path = require('path')
+  , copy = require('gulp-copy')
   , less = require('gulp-less')
   , watch = require('gulp-watch')
   , plumber = require('gulp-plumber')
@@ -19,10 +20,15 @@ gulp.task('styles', function() {
     .pipe(gulp.dest('./themes/splended/static/css'))
 })
 
+gulp.task('fonts', function() {
+  return gulp.src("**", { cwd: './node_modules/bootstrap/fonts' })
+    .pipe(copy('./themes/splended/static/fonts/bootstrap'), {})
+})
+
 gulp.task('watch', function() {
   watch('./less/**/*.less', function(files, cb) {
     gulp.start('styles', cb)
   })
 })
 
-gulp.task('default', ["styles"])
+gulp.task('default', ["styles", "fonts"])

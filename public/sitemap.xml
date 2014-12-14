@@ -2,59 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lennart.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://lennart.github.io/product/tidal-documentation/</loc>
+    <loc>http://localhost:1313/product/tidal-documentation/</loc>
     <lastmod>2014-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lennart.github.io/product/homestreethomebs_de/</loc>
+    <loc>http://localhost:1313/product/homestreethomebs_de/</loc>
     <lastmod>2014-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lennart.github.io/product/stuck_1998/</loc>
+    <loc>http://localhost:1313/product/stuck_1998/</loc>
     <lastmod>2014-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lennart.github.io/product/surfer_haben_rechte_de/</loc>
+    <loc>http://localhost:1313/product/surfer_haben_rechte_de/</loc>
     <lastmod>2014-10-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lennart.github.io/product/rue_bunte_com/</loc>
+    <loc>http://localhost:1313/product/rue_bunte_com/</loc>
     <lastmod>2013-08-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lennart.github.io/product/the-radio/</loc>
+    <loc>http://localhost:1313/product/the-radio/</loc>
     <lastmod>2013-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lennart.github.io/product/bra_materialkompass_de/</loc>
+    <loc>http://localhost:1313/product/bra_materialkompass_de/</loc>
     <lastmod>2012-11-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lennart.github.io/vzbv/</loc>
+    <loc>http://localhost:1313/vzbv/</loc>
     <lastmod>2012-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lennart.github.io/product/artflakes_com/</loc>
+    <loc>http://localhost:1313/product/artflakes_com/</loc>
     <lastmod>2010-11-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://lennart.github.io/artflakes/</loc>
+    <loc>http://localhost:1313/artflakes/</loc>
     <lastmod>2010-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/product/head-tracking-museum/</loc>
+    <lastmod>2009-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/product/minority-wiiport/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
