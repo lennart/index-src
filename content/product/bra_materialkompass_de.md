@@ -1,7 +1,7 @@
 +++
 date = "2012-11-07"
-draft = true
-title = "Bewertungsrasteranwendung"
+draft = false
+title = "Bewertungs Raster Anwendung"
 states = [ "done" ]
 categories = [ "application", "web" ]
 image = "bra.png"

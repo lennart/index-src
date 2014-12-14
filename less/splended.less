@@ -1,4 +1,5 @@
 @import "variables.less";
+@link-color: #001F3F;
 @import "mixins.less";
 
 // Reset and dependencies
@@ -48,3 +49,17 @@
 @import "utilities.less";
 @import "responsive-utilities.less";
 
+@media (min-width: @screen-sm-min) {
+  .media { margin-top: 0; }
+}
+
+
+.content-main {
+	section {
+		border-bottom: 1px dashed fadeout(@link-color, 60%);
+
+		&:nth-child(2n) {
+			background-color: fadeout(@gray-lighter, 80%);
+		}
+	}
+}

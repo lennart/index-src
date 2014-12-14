@@ -1,11 +1,11 @@
 +++
 date = "2014-10-30"
-draft = true
+draft = false
 title = "HOME STREET HOME"
 states = [ "Done" ]
 motivations = [ "friends" ]
 categories = [ "art", "music", "audiowalk", "web", "application" ]
-productUrl = "http://homestreethomebs.de"
+homepage = "http://homestreethomebs.de"
 image = "hsh.png"
 +++
 

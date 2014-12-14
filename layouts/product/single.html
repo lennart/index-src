@@ -8,11 +8,11 @@
     
     <h2>{{ .Title }}</h2>
 
-	{{ partial "song" .Params.song }}
+    {{ partial "song" .Params.song }}
 
     {{ .Content }}
 
-    
+    <a href="{{ .Params.homepage }}" target="_blank">See the result here: {{ .Params.homepage }}</a>
     </div>
   </div>
 </div>

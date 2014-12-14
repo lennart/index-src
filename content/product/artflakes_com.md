@@ -1,10 +1,10 @@
 +++
 date = "2010-11-30"
-draft = true
+draft = false
 title = "artflakes.com"
 states = [ "done" ]
 categories = [ "application", "web" ]
-productUrl = "http://artflakes.com"
+homepage = "http://artflakes.com"
 image = "af.png"
 +++
 

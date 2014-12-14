@@ -901,12 +901,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #428bca;
+  color: #001f3f;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #2a6496;
+  color: #000000;
   text-decoration: underline;
 }
 a:focus {
@@ -3085,7 +3085,7 @@ fieldset[disabled] .btn-danger.active {
   background-color: #ffffff;
 }
 .btn-link {
-  color: #428bca;
+  color: #001f3f;
   font-weight: normal;
   border-radius: 0;
 }
@@ -3106,7 +3106,7 @@ fieldset[disabled] .btn-link {
 }
 .btn-link:hover,
 .btn-link:focus {
-  color: #2a6496;
+  color: #000000;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -3368,7 +3368,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav .open > a:hover,
 .nav .open > a:focus {
   background-color: #eeeeee;
-  border-color: #428bca;
+  border-color: #001f3f;
 }
 .nav .nav-divider {
   height: 1px;
@@ -4085,7 +4085,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
   padding: 6px 12px;
   line-height: 1.42857143;
   text-decoration: none;
-  color: #428bca;
+  color: #001f3f;
   background-color: #ffffff;
   border: 1px solid #dddddd;
   margin-left: -1px;
@@ -4105,7 +4105,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .pagination > li > span:hover,
 .pagination > li > a:focus,
 .pagination > li > span:focus {
-  color: #2a6496;
+  color: #000000;
   background-color: #eeeeee;
   border-color: #dddddd;
 }
@@ -4300,7 +4300,7 @@ a.badge:focus {
 }
 a.list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
-  color: #428bca;
+  color: #001f3f;
   background-color: #ffffff;
 }
 .nav-pills > li > a > .badge {
@@ -4364,7 +4364,7 @@ a.list-group-item.active > .badge,
 a.thumbnail:hover,
 a.thumbnail:focus,
 a.thumbnail.active {
-  border-color: #428bca;
+  border-color: #001f3f;
 }
 .thumbnail .caption {
   padding: 9px;
@@ -5322,6 +5322,17 @@ a.list-group-item-danger.active:focus {
   .hidden-print {
     display: none !important;
   }
+}
+@media (min-width: 768px) {
+  .media {
+    margin-top: 0;
+  }
+}
+.content-main section {
+  border-bottom: 1px dashed rgba(0, 31, 63, 0.4);
+}
+.content-main section:nth-child(2n) {
+  background-color: rgba(238, 238, 238, 0.2);
 }
 
 /*# sourceMappingURL=splended.css.map */

@@ -1,11 +1,11 @@
 +++
-date = "2014-11-07T20:50:26+01:00"
+date = "2014-06-01"
 draft = true
 title = "Brave New Work"
 states = [ "in_progress" ]
 categories = [ "application", "web", "audiowalk", "mobile" ]
 motivations = [ "friends" ]
-productUrl = "http://bravenewwork.info"
+homepage = "http://bravenewwork.info"
 image = "bnw.png"
 +++
 

@@ -1,0 +1,4 @@
+{{ if isset . "title" }}
+<div class="alert alert-info"><strong>Song recommendation while reading:</strong>&nbsp;&ldquo;{{.title}}&rdquo; {{ if isset . "artist"}}by &ldquo;{{.artist}}&rdquo; {{end}}{{if isset . "album"}}on &ldquo;{{.album}}&rdquo;{{end}}
+</div>
+{{end}}
