@@ -9,5 +9,8 @@ logos:
 styles:
 	gulp
 
-deploy: images styles
+build:
+	hugo -t splended --watch=false
+
+deploy: images styles build
 	git subtree push --prefix public deploy master

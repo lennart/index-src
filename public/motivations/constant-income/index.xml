@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Constant Income on Lennart Melzer</title>
-    <link>http://localhost:1313/motivations/constant-income/</link>
+    <link>http://lennart.github.io/motivations/constant-income/</link>
     <description>Recent content in Constant Income on Lennart Melzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     
     <lastBuildDate>Wed, 01 Aug 2012 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://localhost:1313/motivations/constant-income/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lennart.github.io/motivations/constant-income/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>vzbv</title>
-      <link>http://localhost:1313/vzbv/</link>
+      <link>http://lennart.github.io/vzbv/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/vzbv/</guid>
+      <guid>http://lennart.github.io/vzbv/</guid>
       <description>&lt;p&gt;the federation of german consumer organizations. My current employer.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>artflakes</title>
-      <link>http://localhost:1313/artflakes/</link>
+      <link>http://lennart.github.io/artflakes/</link>
       <pubDate>Sun, 01 Aug 2010 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/artflakes/</guid>
+      <guid>http://lennart.github.io/artflakes/</guid>
       <description>&lt;p&gt;a berlin startup I worked for for about 2 years.&lt;/p&gt;
 </description>
     </item>

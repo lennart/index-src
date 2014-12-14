@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Application on Lennart Melzer</title>
-    <link>http://localhost:1313/categories/application/</link>
+    <link>http://lennart.github.io/categories/application/</link>
     <description>Recent content in Application on Lennart Melzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     
     <lastBuildDate>Thu, 30 Oct 2014 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/application/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lennart.github.io/categories/application/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>HOME STREET HOME</title>
-      <link>http://localhost:1313/product/homestreethomebs_de/</link>
+      <link>http://lennart.github.io/product/homestreethomebs_de/</link>
       <pubDate>Thu, 30 Oct 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/product/homestreethomebs_de/</guid>
+      <guid>http://lennart.github.io/product/homestreethomebs_de/</guid>
       <description>&lt;p&gt;An interactive exhibition guide for an art project in Braunschweig, Germany (my hometown) by students of the local university of arts. x artists turn private to public and exhibit their appartments. Each exhibition site is presented on a stylized map of Braunschweig and accompained by an audiosnippet giving a brief description of the works found there.&lt;/p&gt;
 
 &lt;p&gt;A friend of mine, who helped building &lt;strong&gt;Brave New Work&lt;/strong&gt; as well and is also studying at HBK Braunschweig (university of arts) took part in the exhibition. I helped conceptualizing the website, webapp and implemented the core structure for both. While Aaron took care of the content and design, I was mainly working on the maps used in the site.&lt;/p&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>Bewertungs Raster Anwendung</title>
-      <link>http://localhost:1313/product/bra_materialkompass_de/</link>
+      <link>http://lennart.github.io/product/bra_materialkompass_de/</link>
       <pubDate>Wed, 07 Nov 2012 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/product/bra_materialkompass_de/</guid>
+      <guid>http://lennart.github.io/product/bra_materialkompass_de/</guid>
       <description>&lt;p&gt;a internal web application for a small group of people reviewing educational publications by a strict reviewing schema.
 Reviews eventually get published on a website to aid teachers in selection educational material for their classes. Publication&amp;rsquo;s metadata is added by moderators and assigned to reviewers, quality controlled and then published via an external interface.&lt;/p&gt;
 
@@ -42,10 +42,10 @@ Reviews eventually get published on a website to aid teachers in selection educa
     
     <item>
       <title>artflakes.com</title>
-      <link>http://localhost:1313/product/artflakes_com/</link>
+      <link>http://lennart.github.io/product/artflakes_com/</link>
       <pubDate>Tue, 30 Nov 2010 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/product/artflakes_com/</guid>
+      <guid>http://lennart.github.io/product/artflakes_com/</guid>
       <description>&lt;p&gt;&lt;em&gt;a shopping portal for art prints on-demand.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;In a team of about 5 people we created a platform for photographers, illustrators, designers and even hobbyists to share and sell their art online.&lt;/p&gt;
