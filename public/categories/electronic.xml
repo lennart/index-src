@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Electronic on Lennart Melzer </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/categories/electronic/index.xml</link>
+    <language>en-us</language>
+    
+    
+    <updated>Thu, 30 Oct 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Stück 1998 — Manfred Werder — Pages 0761 - 0790</title>
+      <link>http://localhost:1313/product/stuck_1998/</link>
+      <pubDate>Thu, 30 Oct 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/stuck_1998/</guid>
+      <description>&lt;p&gt;SuperCollider transcription and live playback of about thirty pages of Manfred Werder&amp;rsquo;s elegant &amp;ldquo;Stück 1998&amp;rdquo;. Lacking a real Piano for the performance at HOME STREET HOME, or at least something pianoesque, this was a few long hours effort to produce a sound installation supplementing Aaron&amp;rsquo;s visual exhibition.&lt;/p&gt;
+
+&lt;p&gt;Realizing a day before the exhibition we will not have a piano for Lea to play a part of Manfred Werder&amp;rsquo;s composition, we decided to transcribe the sheet music (PDF) into a SuperCollider script.&lt;/p&gt;
+
+&lt;p&gt;Due to its conceptual simplicity, &amp;ldquo;Stück 1998&amp;rdquo; could be easily parsed into a machine readable form. The composition is made up of succeeding notes of different (chosen by dice rolls) pitches played for six seconds, followed by six seconds rest.&lt;/p&gt;
+
+&lt;p&gt;I parsed the original document into an array of pitches which then were converted from german pitch notation into midi notes.&lt;/p&gt;
+
+&lt;p&gt;A minimalistic sine oscillator from SuperCollider and a simple Envelope was use for tone generation. We interlaced the pitch pattern with an infinite pattern of rests and set the tempo to be six seconds each bar, that&amp;rsquo;s about it.&lt;/p&gt;
+
+&lt;p&gt;The SuperCollider script ran for four hours from my laptop (I luckily had with me for the exhibition) and audio was amplified to play out of the first floor window producing a sublime sound installation for Aaron&amp;rsquo;s visual exihibtion in front of the house. People passing by, or visiting the exihibition unconsciously took notice of the music.&lt;/p&gt;
+
+&lt;p&gt;During chats with visitors, many were trying to find a way to see &lt;em&gt;more&lt;/em&gt; of the exihibition, being lured to believe there has to be something else. Though no one explicity talked about the music being played, it seemed to have the expected effect on recipients: being unwillingly exposed to it without being aware of being so. No one was able to categorize or even form an opinion about the music being good, or bad, still it had a subtle effect on them.&lt;/p&gt;
+
+&lt;p&gt;Technically we tried to leave the implementation as simple as possible, to keep with the spirit of the composition. The &lt;a href=&#34;https://gist.github.com/lennart/fbb901667c19f66d3d4e&#34;&gt;Script&lt;/a&gt; is about three hundred and fifty lines of code, from which two hundred and fifty are just the formatted lines of pitches.  Thirty lines for converting pitches to midi notes, roughly eleven lines for the tone generator, five for the pattern, four for playback control (though we didn&amp;rsquo;t need to pause) and the rest are debug, or empty lines.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

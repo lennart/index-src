@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Friends on Lennart Melzer</title>
+    <link>http://localhost:1313/motivations/friends/</link>
+    <description>Recent content in Friends on Lennart Melzer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    <lastBuildDate>Sat, 08 Nov 2014 11:17:58 CET</lastBuildDate>
+    <atom:link href="http://localhost:1313/motivations/friends/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>antrieb-berlin.de</title>
+      <link>http://localhost:1313/product/antrieb_berlin_de/</link>
+      <pubDate>Sat, 08 Nov 2014 11:17:58 CET</pubDate>
+      
+      <guid>http://localhost:1313/product/antrieb_berlin_de/</guid>
+      <description>&lt;p&gt;Being a bicycle store in Berlin Friedrichshain, André decided to finally have his own website, apart from the facebook page he curates to keep in contact with his customers. We conceptualized the frontpage and structured content for the rest, to make it &lt;em&gt;the&lt;/em&gt; best website for a bicycle shop in Friedrichshain.&lt;/p&gt;
+
+&lt;p&gt;Trying to keep my work on implementing a whole website low, I decided to take care of communication with the programmer and André to mediate between the tech-side and the customer-side.&lt;/p&gt;
+
+&lt;p&gt;I held a quick meeting with Michael who will implement the page via WordPress, and interviewed André to plan for the texts and pictures that are to be presented on his website.&lt;/p&gt;
+
+&lt;p&gt;Up to now, everything is in rough shape and soonish to be released.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HOME STREET HOME</title>
+      <link>http://localhost:1313/product/homestreethomebs_de/</link>
+      <pubDate>Thu, 30 Oct 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/homestreethomebs_de/</guid>
+      <description>&lt;p&gt;An interactive exhibition guide for an art project in Braunschweig, Germany (my hometown) by students of the local university of arts. x artists turn private to public and exhibit their appartments. Each exhibition site is presented on a stylized map of Braunschweig and accompained by an audiosnippet giving a brief description of the works found there.&lt;/p&gt;
+
+&lt;p&gt;A friend of mine, who helped building &lt;strong&gt;Brave New Work&lt;/strong&gt; as well and is also studying at HBK Braunschweig (university of arts) took part in the exhibition. I helped conceptualizing the website, webapp and implemented the core structure for both. While Aaron took care of the content and design, I was mainly working on the maps used in the site.&lt;/p&gt;
+
+&lt;p&gt;We used knowledge from the former audiowalk and stripped it to the bare minimum. It is a responsive single-page app working with geolocation and some javascript for interaction. I used Tilemill to produce a distinct look for the map, which was used as a poster design for advertising the exhibition in Braunschweig.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stück 1998 — Manfred Werder — Pages 0761 - 0790</title>
+      <link>http://localhost:1313/product/stuck_1998/</link>
+      <pubDate>Thu, 30 Oct 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/stuck_1998/</guid>
+      <description>&lt;p&gt;SuperCollider transcription and live playback of about thirty pages of Manfred Werder&amp;rsquo;s elegant &amp;ldquo;Stück 1998&amp;rdquo;. Lacking a real Piano for the performance at HOME STREET HOME, or at least something pianoesque, this was a few long hours effort to produce a sound installation supplementing Aaron&amp;rsquo;s visual exhibition.&lt;/p&gt;
+
+&lt;p&gt;Realizing a day before the exhibition we will not have a piano for Lea to play a part of Manfred Werder&amp;rsquo;s composition, we decided to transcribe the sheet music (PDF) into a SuperCollider script.&lt;/p&gt;
+
+&lt;p&gt;Due to its conceptual simplicity, &amp;ldquo;Stück 1998&amp;rdquo; could be easily parsed into a machine readable form. The composition is made up of succeeding notes of different (chosen by dice rolls) pitches played for six seconds, followed by six seconds rest.&lt;/p&gt;
+
+&lt;p&gt;I parsed the original document into an array of pitches which then were converted from german pitch notation into midi notes.&lt;/p&gt;
+
+&lt;p&gt;A minimalistic sine oscillator from SuperCollider and a simple Envelope was use for tone generation. We interlaced the pitch pattern with an infinite pattern of rests and set the tempo to be six seconds each bar, that&amp;rsquo;s about it.&lt;/p&gt;
+
+&lt;p&gt;The SuperCollider script ran for four hours from my laptop (I luckily had with me for the exhibition) and audio was amplified to play out of the first floor window producing a sublime sound installation for Aaron&amp;rsquo;s visual exihibtion in front of the house. People passing by, or visiting the exihibition unconsciously took notice of the music.&lt;/p&gt;
+
+&lt;p&gt;During chats with visitors, many were trying to find a way to see &lt;em&gt;more&lt;/em&gt; of the exihibition, being lured to believe there has to be something else. Though no one explicity talked about the music being played, it seemed to have the expected effect on recipients: being unwillingly exposed to it without being aware of being so. No one was able to categorize or even form an opinion about the music being good, or bad, still it had a subtle effect on them.&lt;/p&gt;
+
+&lt;p&gt;Technically we tried to leave the implementation as simple as possible, to keep with the spirit of the composition. The &lt;a href=&#34;https://gist.github.com/lennart/fbb901667c19f66d3d4e&#34;&gt;Script&lt;/a&gt; is about three hundred and fifty lines of code, from which two hundred and fifty are just the formatted lines of pitches.  Thirty lines for converting pitches to midi notes, roughly eleven lines for the tone generator, five for the pattern, four for playback control (though we didn&amp;rsquo;t need to pause) and the rest are debug, or empty lines.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brave New Work</title>
+      <link>http://localhost:1313/product/bravenewwork_info/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/bravenewwork_info/</guid>
+      <description>&lt;p&gt;An audiowalk through the center of berlin. Guiding visitors through a dozen of handpicked locations throughout referring to the theme of &lt;em&gt;work&lt;/em&gt;. Places are narrated by an ironic voice, while walks between spots contain music and/or interviews with politicans, artists or plain workers regarding the current and past understanding of &amp;ldquo;what is work?&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;While Sinja Krüger selected and elaborated on each spots text for about one year for her master thesis, recording, composition of music, interviews, cutting as well as the whole mobile web application has been built within about a month of hard work by a team of six people.&lt;/p&gt;
+
+&lt;p&gt;A friend of mine and I helped conceptualizing and building the mobile app which was planned to go to the apple store and ended up being a full-fledged statically built website that downloads all content onto visitors smartphones and runs completely offline for the duration (roughly 80 minutes) of the walk with just GPS turned on.&lt;/p&gt;
+
+&lt;p&gt;While I&amp;rsquo;m writing this is still an unfinished project concerning the web application as there are some bugs to be fixed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rue Bunte</title>
+      <link>http://localhost:1313/product/rue_bunte_com/</link>
+      <pubDate>Tue, 20 Aug 2013 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/rue_bunte_com/</guid>
+      <description>&lt;p&gt;During my holidays on crete, a friend of mine and I had some spare time left and rebuilt the website for an art-collective-backyard-something in Berlin Neukölln they run. It should be simple, both in its aesthetics and its caring for. I called a friend of mine at work in germany to setup FTP and the domain and we went online before returning to germany.&lt;/p&gt;
+
+&lt;p&gt;My main goal was for Angelina to be able to add/edit events, pictures and content on her own. I decided to not use any content management system for it and helped her learn just a bit of markdown and handling ftp to publish a new version of the website.&lt;/p&gt;
+
+&lt;p&gt;We used wintersmith, a static site generator based on node.js which makes it easy to organize your content and also blazing fast in delivery, since it&amp;rsquo;s all static HTML/CSS in the end.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>clevershit</title>
+      <link>http://localhost:1313/product/clevershit/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/clevershit/</guid>
+      <description>&lt;p&gt;Back in university a friend of mine and I were fed up with the way we had to &lt;em&gt;manage&lt;/em&gt; aggregating all the documents, papers and all the stuff we got in university, to read and process. We took a look at what kinds of other communities were around and found a project called &amp;ldquo;clevershit&amp;rdquo;, which was a simple forum that had been setup by one of the students of computer science to gather all these information, and for others to exchange their thoughts. We strived to solve a problem, that was already solved.&lt;/p&gt;
+
+&lt;p&gt;Driven by our half-god complex, of doing it better, doing it &lt;em&gt;the right way&lt;/em&gt;, we tried to build a platform based on the—back then hip and trendy—web application framework Ruby on Rails. An utterly over-engineered piece of software to build an utterly over-engineered platform.&lt;/p&gt;
+
+&lt;p&gt;We wanted to create a simple to use, highly flexible way of sharing and collaborating on &lt;em&gt;content&lt;/em&gt; and never came to a close. All our prototypes never came across that stage, being a prototype. Essentially, what was missing, was the contact to other people, that would want to use it. We just tried to build a platform for a pretty narrow community, namely: us two. That is, we never bothered to ask what others might need, where the real pain points with the current solutions were.&lt;/p&gt;
+
+&lt;p&gt;All the other students were happy that &amp;ldquo;clevershit&amp;rdquo;, a forum, existed and, at least I had to learn that sometimes, worse is better.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A materials management system</title>
+      <link>http://localhost:1313/product/materials-mgmt-system/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/materials-mgmt-system/</guid>
+      <description>&lt;p&gt;Just when I left school, a friend mine and I were asked to write a whole materials management system, or maybe just a part of it. We had some meetings, a company was founded, we invested in hardware, made some sketches for the later product, he took care of frontend designing and I went on to write a parser for a data interchange format that seemed to be quite common for such applications. That was about how far we got.&lt;/p&gt;
+
+&lt;p&gt;At some point we realized, this is not going to work out. We underestimated the whole complexity and all the factors that had to be taken into account when writing software, that is not going to be used by tech-savvy people like we were.&lt;/p&gt;
+
+&lt;p&gt;It was a lesson in project planning, resource management, estimation of cost and time and so on. We halted everything and the product was never finished (at least not by us).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

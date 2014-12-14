@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>App on Lennart Melzer </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/categories/app/index.xml</link>
+    <language>en-us</language>
+    
+    
+    <updated>Mon, 01 Jun 2009 00:00:00 UTC</updated>
+    
+    <item>
+      <title>A materials management system</title>
+      <link>http://localhost:1313/product/materials-mgmt-system/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/materials-mgmt-system/</guid>
+      <description>&lt;p&gt;Just when I left school, a friend mine and I were asked to write a whole materials management system, or maybe just a part of it. We had some meetings, a company was founded, we invested in hardware, made some sketches for the later product, he took care of frontend designing and I went on to write a parser for a data interchange format that seemed to be quite common for such applications. That was about how far we got.&lt;/p&gt;
+
+&lt;p&gt;At some point we realized, this is not going to work out. We underestimated the whole complexity and all the factors that had to be taken into account when writing software, that is not going to be used by tech-savvy people like we were.&lt;/p&gt;
+
+&lt;p&gt;It was a lesson in project planning, resource management, estimation of cost and time and so on. We halted everything and the product was never finished (at least not by us).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

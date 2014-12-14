@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Collaboration on Lennart Melzer </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/categories/collaboration/index.xml</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 01 Jan 2010 00:00:00 UTC</updated>
+    
+    <item>
+      <title>clevershit</title>
+      <link>http://localhost:1313/product/clevershit/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/clevershit/</guid>
+      <description>&lt;p&gt;Back in university a friend of mine and I were fed up with the way we had to &lt;em&gt;manage&lt;/em&gt; aggregating all the documents, papers and all the stuff we got in university, to read and process. We took a look at what kinds of other communities were around and found a project called &amp;ldquo;clevershit&amp;rdquo;, which was a simple forum that had been setup by one of the students of computer science to gather all these information, and for others to exchange their thoughts. We strived to solve a problem, that was already solved.&lt;/p&gt;
+
+&lt;p&gt;Driven by our half-god complex, of doing it better, doing it &lt;em&gt;the right way&lt;/em&gt;, we tried to build a platform based on the—back then hip and trendy—web application framework Ruby on Rails. An utterly over-engineered piece of software to build an utterly over-engineered platform.&lt;/p&gt;
+
+&lt;p&gt;We wanted to create a simple to use, highly flexible way of sharing and collaborating on &lt;em&gt;content&lt;/em&gt; and never came to a close. All our prototypes never came across that stage, being a prototype. Essentially, what was missing, was the contact to other people, that would want to use it. We just tried to build a platform for a pretty narrow community, namely: us two. That is, we never bothered to ask what others might need, where the real pain points with the current solutions were.&lt;/p&gt;
+
+&lt;p&gt;All the other students were happy that &amp;ldquo;clevershit&amp;rdquo;, a forum, existed and, at least I had to learn that sometimes, worse is better.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

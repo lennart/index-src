@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Current on Lennart Melzer </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://localhost:1313/states/current/index.xml</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 07 Nov 2014 20:29:14 CET</updated>
+    
+    <item>
+      <title>vzbv</title>
+      <link>http://localhost:1313/vzbv/</link>
+      <pubDate>Fri, 07 Nov 2014 20:29:14 CET</pubDate>
+      
+      <guid>http://localhost:1313/vzbv/</guid>
+      <description>&lt;p&gt;the federation of german consumer organizations. My current employer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>In_progress on Lennart Melzer</title>
+    <link>http://localhost:1313/states/in_progress/</link>
+    <description>Recent content in In_progress on Lennart Melzer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    <lastBuildDate>Sat, 08 Nov 2014 11:17:58 CET</lastBuildDate>
+    <atom:link href="http://localhost:1313/states/in_progress/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>antrieb-berlin.de</title>
+      <link>http://localhost:1313/product/antrieb_berlin_de/</link>
+      <pubDate>Sat, 08 Nov 2014 11:17:58 CET</pubDate>
+      
+      <guid>http://localhost:1313/product/antrieb_berlin_de/</guid>
+      <description>&lt;p&gt;Being a bicycle store in Berlin Friedrichshain, André decided to finally have his own website, apart from the facebook page he curates to keep in contact with his customers. We conceptualized the frontpage and structured content for the rest, to make it &lt;em&gt;the&lt;/em&gt; best website for a bicycle shop in Friedrichshain.&lt;/p&gt;
+
+&lt;p&gt;Trying to keep my work on implementing a whole website low, I decided to take care of communication with the programmer and André to mediate between the tech-side and the customer-side.&lt;/p&gt;
+
+&lt;p&gt;I held a quick meeting with Michael who will implement the page via WordPress, and interviewed André to plan for the texts and pictures that are to be presented on his website.&lt;/p&gt;
+
+&lt;p&gt;Up to now, everything is in rough shape and soonish to be released.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Documentation: Tidal</title>
+      <link>http://localhost:1313/product/tidal-documentation/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/tidal-documentation/</guid>
+      <description>&lt;p&gt;Having just recently learned about live coding in general, I got to know Tidal, a domain specific pattern language for live coding written in Haskell. Struggling with the hitherto state of the documentation being sprinkled across the mailing list, single Markdown files on github and the wiki, I put up a Github page and organized/themed the content that was already there.&lt;/p&gt;
+
+&lt;p&gt;Staying in contact with the developers of Tidal, I tried grasp the concepts behind Tidal to make the documentation both an easy start for beginners, a handy reference for users and a knowledge base for conceptually interested researchers.&lt;/p&gt;
+
+&lt;p&gt;Using only what github pages auto-build mechanism offers, I used twitter&amp;rsquo;s bootstrap in the sass variant and jekyll as the base for the page. I ordered the documentation into multiple chapters ranging from easy to complex and structured the list of available functions into logical groups.&lt;/p&gt;
+
+&lt;p&gt;I added things like bootstrap&amp;rsquo;s scrollspy to help navigating a long list of menu entries and embedded syntax highlighting for the many code inlined snippets.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brave New Work</title>
+      <link>http://localhost:1313/product/bravenewwork_info/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/bravenewwork_info/</guid>
+      <description>&lt;p&gt;An audiowalk through the center of berlin. Guiding visitors through a dozen of handpicked locations throughout referring to the theme of &lt;em&gt;work&lt;/em&gt;. Places are narrated by an ironic voice, while walks between spots contain music and/or interviews with politicans, artists or plain workers regarding the current and past understanding of &amp;ldquo;what is work?&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;While Sinja Krüger selected and elaborated on each spots text for about one year for her master thesis, recording, composition of music, interviews, cutting as well as the whole mobile web application has been built within about a month of hard work by a team of six people.&lt;/p&gt;
+
+&lt;p&gt;A friend of mine and I helped conceptualizing and building the mobile app which was planned to go to the apple store and ended up being a full-fledged statically built website that downloads all content onto visitors smartphones and runs completely offline for the duration (roughly 80 minutes) of the walk with just GPS turned on.&lt;/p&gt;
+
+&lt;p&gt;While I&amp;rsquo;m writing this is still an unfinished project concerning the web application as there are some bugs to be fixed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>vzbv</title>
+      <link>http://localhost:1313/vzbv/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/vzbv/</guid>
+      <description>&lt;p&gt;the federation of german consumer organizations. My current employer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
