@@ -1,6 +1,6 @@
 +++
 date = "2014-11-01"
-draft = true
+draft = false
 title = "Documentation: Tidal"
 states = [ "in_progress" ]
 motivations = [ "me" ]
