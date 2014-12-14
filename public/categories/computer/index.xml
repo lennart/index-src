@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Computer on Lennart Melzer</title>
-    <link>http://localhost:1313/categories/computer/</link>
+    <link>http://lennart.github.io/categories/computer/</link>
     <description>Recent content in Computer on Lennart Melzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
     <lastBuildDate>Thu, 30 Oct 2014 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/computer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lennart.github.io/categories/computer/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Stück 1998 — Manfred Werder — Pages 0761 - 0790</title>
-      <link>http://localhost:1313/product/stuck_1998/</link>
+      <link>http://lennart.github.io/product/stuck_1998/</link>
       <pubDate>Thu, 30 Oct 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/product/stuck_1998/</guid>
+      <guid>http://lennart.github.io/product/stuck_1998/</guid>
       <description>&lt;p&gt;SuperCollider transcription and live playback of about thirty pages of Manfred Werder&amp;rsquo;s elegant &amp;ldquo;Stück 1998&amp;rdquo;. Lacking a real Piano for the performance at HOME STREET HOME, or at least something pianoesque, this was a few long hours effort to produce a sound installation supplementing Aaron&amp;rsquo;s visual exhibition.&lt;/p&gt;
 
 &lt;p&gt;Realizing a day before the exhibition we will not have a piano for Lea to play a part of Manfred Werder&amp;rsquo;s composition, we decided to transcribe the sheet music (PDF) into a SuperCollider script.&lt;/p&gt;

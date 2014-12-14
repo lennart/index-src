@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Lennart Melzer</title>
-    <link>http://localhost:1313/categories/events/</link>
+    <link>http://lennart.github.io/categories/events/</link>
     <description>Recent content in Events on Lennart Melzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
     <lastBuildDate>Tue, 20 Aug 2013 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lennart.github.io/categories/events/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Rue Bunte</title>
-      <link>http://localhost:1313/product/rue_bunte_com/</link>
+      <link>http://lennart.github.io/product/rue_bunte_com/</link>
       <pubDate>Tue, 20 Aug 2013 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/product/rue_bunte_com/</guid>
+      <guid>http://lennart.github.io/product/rue_bunte_com/</guid>
       <description>&lt;p&gt;During my holidays on crete, a friend of mine and I had some spare time left and rebuilt the website for an art-collective-backyard-something in Berlin Neukölln they run. It should be simple, both in its aesthetics and its caring for. I called a friend of mine at work in germany to setup FTP and the domain and we went online before returning to germany.&lt;/p&gt;
 
 &lt;p&gt;My main goal was for Angelina to be able to add/edit events, pictures and content on her own. I decided to not use any content management system for it and helped her learn just a bit of markdown and handling ftp to publish a new version of the website.&lt;/p&gt;

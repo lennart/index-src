@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>In_progress on Lennart Melzer</title>
-    <link>http://localhost:1313/states/in_progress/</link>
+    <link>http://lennart.github.io/states/in_progress/</link>
     <description>Recent content in In_progress on Lennart Melzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
     <lastBuildDate>Sat, 01 Nov 2014 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://localhost:1313/states/in_progress/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://lennart.github.io/states/in_progress/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Documentation: Tidal</title>
-      <link>http://localhost:1313/product/tidal-documentation/</link>
+      <link>http://lennart.github.io/product/tidal-documentation/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/product/tidal-documentation/</guid>
+      <guid>http://lennart.github.io/product/tidal-documentation/</guid>
       <description>&lt;p&gt;Having just recently learned about live coding in general, I got to know Tidal, a domain specific pattern language for live coding written in Haskell. Struggling with the hitherto state of the documentation being sprinkled across the mailing list, single Markdown files on github and the wiki, I put up a Github page and organized/themed the content that was already there.&lt;/p&gt;
 
 &lt;p&gt;Staying in contact with the developers of Tidal, I tried grasp the concepts behind Tidal to make the documentation both an easy start for beginners, a handy reference for users and a knowledge base for conceptually interested researchers.&lt;/p&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>vzbv</title>
-      <link>http://localhost:1313/vzbv/</link>
+      <link>http://lennart.github.io/vzbv/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/vzbv/</guid>
+      <guid>http://lennart.github.io/vzbv/</guid>
       <description>&lt;p&gt;the federation of german consumer organizations. My current employer.&lt;/p&gt;
 </description>
     </item>
