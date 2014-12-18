@@ -1,21 +1,26 @@
-  <div class="container">
-	  <div class="row">
-	  	<div class="col-xs-12">
-	  		<ul class="footer-menu menu nav">
-	  		{{ $baseurl := .Site.BaseUrl }}
-	  		{{ range .Site.Menus.footer }}
-	  			  <li>
-	  			  	<a href="{{ $baseurl }}#{{ .Identifier}}">{{ .Pre }}&nbsp;<span>{{ .Name }}</span></a>
-	  			  </li>
-	  		{{ end }}	
-	  		</ul>
-	  	</div>
+  <div class="footer-content">
+	  <div class="container">
+		  <div class="row">
+		  	<div class="col-xs-6">
+		  		{{ template "partials/colophon.html" }}
+		  	</div>
+		  	<div class="col-xs-6">
+		  		<ul class="footer-menu menu nav">
+		  		{{ $baseurl := .Site.BaseUrl }}
+		  		{{ range .Site.Menus.footer }}
+		  			  <li>
+		  			  	<a href="{{ $baseurl }}#{{ .Identifier}}">{{ .Pre }}&nbsp;<span>{{ .Name }}</span></a>
+		  			  </li>
+		  		{{ end }}	
+		  		</ul>
+		  	</div>
+		  </div>
+	    <div class="row">
+	      <div class="col-xs-12">
+	        <small>{{ .Site.Copyright | safeHtml }}</small>
+	      </div>
+	    </div>
 	  </div>
-    <div class="row">
-      <div class="col-xs-12">
-        <small>{{ .Site.Copyright | safeHtml }}</small>
-      </div>
-    </div>
   </div>
 </body>
 </html>

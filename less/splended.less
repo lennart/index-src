@@ -1,6 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,700);
+@import url(http://fonts.googleapis.com/css?family=PT+Serif:400,700);
 @import "variables.less";
 @link-color: #001F3F;
 @icon-font-path:          "../fonts/bootstrap/";
+@font-family-base: "PT Serif", "Palatino", "Georgia";
+@font-size-base: 14px;
+@headings-font-weight:    700;
 @import "mixins.less";
 
 // Reset and dependencies
@@ -57,10 +62,20 @@
 
 .content-main {
 	section {
+		padding: @padding-large-vertical @padding-large-horizontal;
 		border-bottom: 1px dashed fadeout(@link-color, 60%);
 
 		&:nth-child(2n) {
 			background-color: fadeout(@gray-lighter, 80%);
 		}
+	}
+}
+
+.footer-content {
+	padding: @padding-large-vertical @padding-large-horizontal;
+	background-color: @link-color;
+	color: fadeout(@gray-lighter, 20%);
+	a { 
+		color: mix(@link-color, @gray-lighter, 50%);
 	}
 }
