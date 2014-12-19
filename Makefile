@@ -9,6 +9,10 @@ logos:
 styles:
 	gulp
 
+
+serve:
+	hugo server -t splended -w
+
 build:
 	hugo -t splended --watch=false
 

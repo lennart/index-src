@@ -1,11 +1,11 @@
-<div class="media col-xs-8 col-md-6 col-lg-4">
+<div class="media col-xs-8 col-md-6 col-lg-6 {{ .Type }}">
     <a href="{{ .Permalink }}" class="media-left">
         <img src="{{ .Site.BaseUrl }}/img/thumbs/{{ .Params.image }}" alt="">
     </a>
     <div class="media-body">
-        <h4 class="media-heading">
+        {{ if eq .Type "product" }}<h4 class="media-heading">
             <a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
-        </h4>
+        </h4>{{ end }}
 
         <p>
             {{ .Summary }}
