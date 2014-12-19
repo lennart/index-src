@@ -5330,12 +5330,17 @@ a.list-group-item-danger.active:focus {
     margin-top: 0;
   }
 }
+.content-main {
+  min-height: 60em;
+}
 .content-main section {
   padding: 10px 16px;
-  border-bottom: 1px dashed rgba(0, 31, 63, 0.4);
 }
 .content-main section:nth-child(2n) {
   background-color: rgba(238, 238, 238, 0.2);
+}
+.content-main section + section {
+  border-top: 1px dashed rgba(0, 31, 63, 0.4);
 }
 .footer-content {
   padding: 10px 16px;
