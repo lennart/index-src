@@ -30,7 +30,7 @@
                       </h3>
                     <div class="row">
                         {{ range $index, $element := .Site.Taxonomies.states.in_progress.Pages }}
-                        {{ if not (mod $index 3) }}<div class="clearfix visible-lg-block"></div>{{ end }}
+                        {{ if not (mod $index 2) }}<div class="clearfix visible-lg-block"></div>{{ end }}
                         {{ if not (mod $index 2) }}<div class="clearfix visible-md-block"></div>{{ end }}
                         {{ $element.Render "media" }}
                         {{ end }}
@@ -53,7 +53,11 @@
                     <h4>{{ .Key }}</h4>
 
                     <div class="row">
-                        {{ range .Pages }} {{ .Render "media" }} {{ end }}
+                        {{ range $index, $element := .Pages }}
+                            {{ if not (mod $index 2) }}<div class="clearfix visible-lg-block"></div>{{ end }}
+                            {{ if not (mod $index 2) }}<div class="clearfix visible-md-block"></div>{{ end }}
+                            {{ $element.Render "media" }}
+                        {{ end }}
                     </div>
                     {{ end }}
 
@@ -73,7 +77,11 @@
                     <h4>{{ .Key }}</h4>
 
                     <div class="row">
-                        {{ range .Pages }} {{ .Render "media" }} {{ end }}
+                        {{ range $index, $element := .Pages }}
+                        {{ if not (mod $index 2) }}<div class="clearfix visible-lg-block"></div>{{ end }}
+                        {{ if not (mod $index 2) }}<div class="clearfix visible-md-block"></div>{{ end }}
+                        {{ .Render "media" }}
+                        {{ end }}
                     </div>
                     {{ end }}
 
