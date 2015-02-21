@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>In_progress on Lennart Melzer</title>
-    <link>http://localhost:1313/states/in_progress/</link>
+    <link>http://works.lmaa.name/states/in_progress/</link>
     <description>Recent content in In_progress on Lennart Melzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
     <lastBuildDate>Sun, 21 Dec 2014 18:41:50 CET</lastBuildDate>
-    <atom:link href="http://localhost:1313/states/in_progress/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://works.lmaa.name/states/in_progress/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Elle-Ian Anney-Arty</title>
-      <link>http://localhost:1313/product/elle-ian-anney-arty/</link>
+      <link>http://works.lmaa.name/product/elle-ian-anney-arty/</link>
       <pubDate>Sun, 21 Dec 2014 18:41:50 CET</pubDate>
       
-      <guid>http://localhost:1313/product/elle-ian-anney-arty/</guid>
+      <guid>http://works.lmaa.name/product/elle-ian-anney-arty/</guid>
       <description>&lt;p&gt;Synthesized, experimental music. Antistructural, desystematic—improvised—project for publishing products that I sometimes record.&lt;/p&gt;
 
 &lt;p&gt;Developing software led me to find other use cases of programming: synthesizers. Finding a balance between coded environments, realtime interaction with synthesizer parameters via hard and software and blind improvisation, &lt;strong&gt;Elle-Ian Anney-Arty&lt;/strong&gt; is the bucket within which I irregularly drop pieces that came to existance by the above methods.&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>gloves</title>
-      <link>http://localhost:1313/product/gloves/</link>
+      <link>http://works.lmaa.name/product/gloves/</link>
       <pubDate>Sat, 20 Dec 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/product/gloves/</guid>
+      <guid>http://works.lmaa.name/product/gloves/</guid>
       <description>&lt;p&gt;At least a year ago I started knitting my own gloves for cycling. Right now both are kind of finished, but one still lacks the extra leather padding which is really hard to sew.&lt;/p&gt;
 
 &lt;p&gt;Wool is from the lamb (actually for socks, but no one cares, just a bit of nylon in it to make them more durable). I gathered the leather from an old sitting pillow.&lt;/p&gt;
@@ -37,10 +37,10 @@
     
     <item>
       <title>vzbv</title>
-      <link>http://localhost:1313/vzbv/</link>
+      <link>http://works.lmaa.name/vzbv/</link>
       <pubDate>Wed, 01 Aug 2012 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/vzbv/</guid>
+      <guid>http://works.lmaa.name/vzbv/</guid>
       <description>&lt;p&gt;the federation of german consumer organizations. My current employer.&lt;/p&gt;
 
 &lt;p&gt;In a growing team of developers, system administrators and a support crew, I am developing web applications based on the content management system Drupal.&lt;/p&gt;
