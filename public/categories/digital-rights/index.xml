@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Rights on Lennart Melzer</title>
-    <link>http://works.lmaa.name/categories/digital-rights/</link>
+    <link>http://localhost:1313/categories/digital-rights/</link>
     <description>Recent content in Digital Rights on Lennart Melzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
     <lastBuildDate>Thu, 23 Oct 2014 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://works.lmaa.name/categories/digital-rights/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/digital-rights/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Surfer haben Rechte</title>
-      <link>http://works.lmaa.name/product/surfer_haben_rechte_de/</link>
+      <link>http://localhost:1313/product/surfer_haben_rechte_de/</link>
       <pubDate>Thu, 23 Oct 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/surfer_haben_rechte_de/</guid>
+      <guid>http://localhost:1313/product/surfer_haben_rechte_de/</guid>
       <description>&lt;p&gt;The IT-Team of the vzbv, my current employer, relaunched the website for the project &amp;ldquo;Surfer haben Rechte — Verbraucherrechte in der digitalen Welt&amp;rdquo; (Surfers have rights — consumer rights in the digital world). I helped building the infrastructure, migrate content, teach editors and customize the template.&lt;/p&gt;
 </description>
     </item>

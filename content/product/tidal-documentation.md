@@ -2,7 +2,7 @@
 date = "2014-11-01"
 draft = false
 title = "Documentation: Tidal"
-states = [ "in_progress" ]
+states = [ "done" ]
 motivations = [ "me" ]
 categories = [ "art", "music", "code", "web" ]
 homepage = "http://tidal.lurk.org"
@@ -17,3 +17,4 @@ Using only what github pages auto-build mechanism offers, I used twitter's boots
 
 I added things like bootstrap's scrollspy to help navigating a long list of menu entries and embedded syntax highlighting for the many code inlined snippets.
 
+The documentation is kickstarted and released to the community to be continuously improved. Since I started working on it, others have contributed Howtos for MIDI integration and just recently the Editor Integration was updated to prefer the Atom editor instead of emacs for beginners.

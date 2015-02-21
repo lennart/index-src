@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intrinsic on Lennart Melzer</title>
-    <link>http://works.lmaa.name/motivations/intrinsic/</link>
+    <link>http://localhost:1313/motivations/intrinsic/</link>
     <description>Recent content in Intrinsic on Lennart Melzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
     <lastBuildDate>Thu, 01 Aug 2013 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://works.lmaa.name/motivations/intrinsic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/motivations/intrinsic/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>the radio</title>
-      <link>http://works.lmaa.name/product/the-radio/</link>
+      <link>http://localhost:1313/product/the-radio/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/the-radio/</guid>
+      <guid>http://localhost:1313/product/the-radio/</guid>
       <description>&lt;p&gt;One day, the old portable radio stopped working. I really liked it and promised to make bring it back to life. Cracked open I realized, I am not an electronics expert, and by far not a radio expert. My attempts to fix the radio itself failed miserably, so I tried to built an not reliably working mp3 player (with a working fm-radio) into the case an hook up a simple amplifier to it.&lt;/p&gt;
 
 &lt;p&gt;This failed as well, as you can see, these are the parts and each of them worked on its own. The amplifier, the speaker, the on/off/volume knob and so on. But putting it all together, it didn&amp;rsquo;t and that&amp;rsquo;s the state it is in now.&lt;/p&gt;
