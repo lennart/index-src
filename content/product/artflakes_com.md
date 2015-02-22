@@ -6,6 +6,11 @@ states = [ "done" ]
 categories = [ "application", "web" ]
 homepage = "http://artflakes.com"
 image = "af.png"
+[song]
+	title= "Surfing the warm industry"
+	artist= "Kashmir"
+	album= "Zitilites"
+  url= "https://www.youtube.com/watch?v=ztQP2P09vNo"
 +++
 
 
@@ -22,5 +27,3 @@ I was involved in conceptualizing the architecture, programming the print-produc
 My main task behind the scenes however was eventually producing a toolchain for importing image libraries from all the partners we acquired and sanitizing and mapping metadata to the platform, including pregenerating thumbnails for the various listings and types of image display of a single product. The toolchain could be used without programming knowledge, but it sported a code editor that would allow running snippets of mapping code across a whole set of metadata for a certain partner that was stored before being imported into the main web-application.
 
 I left the company after it successfully maintained a constant revenue in early 2012.
-
-

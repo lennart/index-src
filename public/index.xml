@@ -145,20 +145,6 @@ Reviews eventually get published on a website to aid teachers in selection educa
     </item>
     
     <item>
-      <title>vzbv</title>
-      <link>http://works.lmaa.name/vzbv/</link>
-      <pubDate>Wed, 01 Aug 2012 00:00:00 UTC</pubDate>
-      
-      <guid>http://works.lmaa.name/vzbv/</guid>
-      <description>&lt;p&gt;the federation of german consumer organizations. My current employer.&lt;/p&gt;
-
-&lt;p&gt;In a growing team of developers, system administrators and a support crew, I am developing web applications based on the content management system Drupal.&lt;/p&gt;
-
-&lt;p&gt;The IT has been introducing agile methods to work with in-house co-workers for migrating and building new web applications.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>artflakes.com</title>
       <link>http://works.lmaa.name/product/artflakes_com/</link>
       <pubDate>Tue, 30 Nov 2010 00:00:00 UTC</pubDate>
@@ -177,16 +163,6 @@ Reviews eventually get published on a website to aid teachers in selection educa
 &lt;p&gt;My main task behind the scenes however was eventually producing a toolchain for importing image libraries from all the partners we acquired and sanitizing and mapping metadata to the platform, including pregenerating thumbnails for the various listings and types of image display of a single product. The toolchain could be used without programming knowledge, but it sported a code editor that would allow running snippets of mapping code across a whole set of metadata for a certain partner that was stored before being imported into the main web-application.&lt;/p&gt;
 
 &lt;p&gt;I left the company after it successfully maintained a constant revenue in early 2012.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>artflakes</title>
-      <link>http://works.lmaa.name/artflakes/</link>
-      <pubDate>Sun, 01 Aug 2010 00:00:00 UTC</pubDate>
-      
-      <guid>http://works.lmaa.name/artflakes/</guid>
-      <description>&lt;p&gt;a berlin startup I worked for for about 2 years.&lt;/p&gt;
 </description>
     </item>
     

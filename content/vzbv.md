@@ -1,6 +1,6 @@
 +++
 date = "2012-08-01"
-draft = false
+draft = true
 title = "vzbv"
 motivations = [ "constant income", "leaving business" ]
 states = [ "in_progress" ]
