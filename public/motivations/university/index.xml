@@ -28,6 +28,14 @@
       
       <guid>http://works.lmaa.name/product/minority-wiiport/</guid>
       <description>&lt;p&gt;Tracking hand gestures from a WiiMote mounted above a projection surface, letting you pinch &amp;amp; zoom images on the big screen from the tip of your fingers. I wrote the 3D rendering code using the OGRE Game engine.&lt;/p&gt;
+
+&lt;p&gt;Interestingly most of the concepts we introduced here for gesture recognition, tracking of motion, and interaction with media, was later implemented in other software, most prominently the &lt;em&gt;pinch and zoom&lt;/em&gt; on the iPhone, which has been a key feature—though rather clumsy—within our own simple experiment.&lt;/p&gt;
+
+&lt;p&gt;Apart from the actual coding of the software—which is pure c++ using some additions from the Technical Report 1 like smart pointers—this project was highly collaborative in version control via svn and a complex build system using scons. Our team consisting of six people had to coordinate our progress within the source code and build system while maintaining a working prototype.&lt;/p&gt;
+
+&lt;p&gt;Components of the project were: WiiMote interfacing, gesture recognition using Markov chains, logic dispatching, rendering and documentation.&lt;/p&gt;
+
+&lt;p&gt;Interestingly we did not completely agree on a License making it possible to distribute the code for commercial use. Some of our colleagues were strong defenders of the &lt;strong&gt;GNU&lt;/strong&gt; ideology referring to &lt;em&gt;free&lt;/em&gt; as in free speech, not as in beer.&lt;/p&gt;
 </description>
     </item>
     
