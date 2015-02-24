@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Audiowalk on Lennart Melzer</title>
-    <link>http://localhost:1313/categories/audiowalk/</link>
+    <link>http://works.lmaa.name/categories/audiowalk/</link>
     <description>Recent content in Audiowalk on Lennart Melzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
     <lastBuildDate>Thu, 30 Oct 2014 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/audiowalk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://works.lmaa.name/categories/audiowalk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>HOME STREET HOME</title>
-      <link>http://localhost:1313/product/homestreethomebs_de/</link>
+      <link>http://works.lmaa.name/product/homestreethomebs_de/</link>
       <pubDate>Thu, 30 Oct 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/product/homestreethomebs_de/</guid>
+      <guid>http://works.lmaa.name/product/homestreethomebs_de/</guid>
       <description>&lt;p&gt;An interactive exhibition guide for an art project in Braunschweig, Germany (my hometown) by students of the local university of arts. x artists turn private to public and exhibit their appartments. Each exhibition site is presented on a stylized map of Braunschweig and accompained by an audiosnippet giving a brief description of the works found there.&lt;/p&gt;
 
 &lt;p&gt;A friend of mine, who helped building &lt;strong&gt;Brave New Work&lt;/strong&gt; as well and is also studying at HBK Braunschweig (university of arts) took part in the exhibition. I helped conceptualizing the website, webapp and implemented the core structure for both. While Aaron took care of the content and design, I was mainly working on the maps used in the site.&lt;/p&gt;

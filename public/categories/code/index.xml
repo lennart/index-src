@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Code on Lennart Melzer</title>
-    <link>http://localhost:1313/categories/code/</link>
+    <link>http://works.lmaa.name/categories/code/</link>
     <description>Recent content in Code on Lennart Melzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
     <lastBuildDate>Sat, 01 Nov 2014 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://works.lmaa.name/categories/code/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Documentation: Tidal</title>
-      <link>http://localhost:1313/product/tidal-documentation/</link>
+      <link>http://works.lmaa.name/product/tidal-documentation/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://localhost:1313/product/tidal-documentation/</guid>
+      <guid>http://works.lmaa.name/product/tidal-documentation/</guid>
       <description>&lt;p&gt;Having just recently learned about live coding in general, I got to know &lt;strong&gt;Tidal&lt;/strong&gt;, a domain specific pattern language for live coding written in &lt;strong&gt;Haskell&lt;/strong&gt;. Struggling with the hitherto state of the documentation being sprinkled across the mailing list, single &lt;strong&gt;Markdown&lt;/strong&gt; files on &lt;strong&gt;Github&lt;/strong&gt; and the wiki, I put up a &lt;em&gt;Github page&lt;/em&gt; and organized/themed the content that was already there.&lt;/p&gt;
 
 &lt;p&gt;Staying in contact with the developers of &lt;strong&gt;Tidal&lt;/strong&gt;, I tried grasp the concepts behind &lt;strong&gt;Tidal&lt;/strong&gt; to make the documentation both an easy start for beginners, a handy reference for users and a knowledge base for conceptually interested researchers.&lt;/p&gt;
