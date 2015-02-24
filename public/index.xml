@@ -2,21 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lennart Melzer</title>
-    <link>http://works.lmaa.name/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Lennart Melzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
-    <lastBuildDate>Sun, 21 Dec 2014 18:41:50 CET</lastBuildDate>
-    <atom:link href="http://works.lmaa.name/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Feb 2015 00:00:00 UTC</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The table</title>
+      <link>http://localhost:1313/product/the-table/</link>
+      <pubDate>Sun, 08 Feb 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/the-table/</guid>
+      <description>&lt;p&gt;When I moved into my apartment about three years ago, I wanted to &lt;em&gt;build&lt;/em&gt; a table.  Passion seems to have kept me working on it until I finished it with a friend of mine using only wood, wood, glue and adjustable, metal feet.&lt;/p&gt;
+
+&lt;p&gt;Not that I necessarily needed one or am very knowledgable about woodcraft, I just found for wooden legs in my stairway, so I built a tabletop for them.&lt;/p&gt;
+
+&lt;p&gt;The tabletop is built from two (originally three) planks—usually used for floors—cut into halves.&lt;/p&gt;
+
+
+&lt;figure class=&#34;pull-right&#34;&gt;
+    
+        &lt;img src=&#34;/img/thumbs/content/the-table-02.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;clean and empty, like never&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Elle-Ian Anney-Arty</title>
-      <link>http://works.lmaa.name/product/elle-ian-anney-arty/</link>
+      <link>http://localhost:1313/product/elle-ian-anney-arty/</link>
       <pubDate>Sun, 21 Dec 2014 18:41:50 CET</pubDate>
       
-      <guid>http://works.lmaa.name/product/elle-ian-anney-arty/</guid>
+      <guid>http://localhost:1313/product/elle-ian-anney-arty/</guid>
       <description>&lt;p&gt;Synthesized, experimental music. Antistructural, desystematic—improvised—project for publishing products that I sometimes record.&lt;/p&gt;
 
 &lt;p&gt;Developing software led me to find other use cases of programming: synthesizers. Finding a balance between coded environments, realtime interaction with synthesizer parameters via hard and software and blind improvisation, &lt;strong&gt;Elle-Ian Anney-Arty&lt;/strong&gt; is the bucket within which I irregularly drop pieces that came to existance by the above methods.&lt;/p&gt;
@@ -25,10 +53,10 @@
     
     <item>
       <title>gloves</title>
-      <link>http://works.lmaa.name/product/gloves/</link>
+      <link>http://localhost:1313/product/gloves/</link>
       <pubDate>Sat, 20 Dec 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/gloves/</guid>
+      <guid>http://localhost:1313/product/gloves/</guid>
       <description>&lt;p&gt;At least a year ago I started knitting my own gloves for cycling. Right now both are kind of finished, but one still lacks the extra leather padding which is really hard to sew.&lt;/p&gt;
 
 &lt;p&gt;Wool is from the lamb (actually for socks, but no one cares, just a bit of nylon in it to make them more durable). I gathered the leather from an old sitting pillow.&lt;/p&gt;
@@ -37,10 +65,10 @@
     
     <item>
       <title>Documentation: Tidal</title>
-      <link>http://works.lmaa.name/product/tidal-documentation/</link>
+      <link>http://localhost:1313/product/tidal-documentation/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/tidal-documentation/</guid>
+      <guid>http://localhost:1313/product/tidal-documentation/</guid>
       <description>&lt;p&gt;Having just recently learned about live coding in general, I got to know Tidal, a domain specific pattern language for live coding written in Haskell. Struggling with the hitherto state of the documentation being sprinkled across the mailing list, single Markdown files on github and the wiki, I put up a Github page and organized/themed the content that was already there.&lt;/p&gt;
 
 &lt;p&gt;Staying in contact with the developers of Tidal, I tried grasp the concepts behind Tidal to make the documentation both an easy start for beginners, a handy reference for users and a knowledge base for conceptually interested researchers.&lt;/p&gt;
@@ -55,10 +83,10 @@
     
     <item>
       <title>HOME STREET HOME</title>
-      <link>http://works.lmaa.name/product/homestreethomebs_de/</link>
+      <link>http://localhost:1313/product/homestreethomebs_de/</link>
       <pubDate>Thu, 30 Oct 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/homestreethomebs_de/</guid>
+      <guid>http://localhost:1313/product/homestreethomebs_de/</guid>
       <description>&lt;p&gt;An interactive exhibition guide for an art project in Braunschweig, Germany (my hometown) by students of the local university of arts. x artists turn private to public and exhibit their appartments. Each exhibition site is presented on a stylized map of Braunschweig and accompained by an audiosnippet giving a brief description of the works found there.&lt;/p&gt;
 
 &lt;p&gt;A friend of mine, who helped building &lt;strong&gt;Brave New Work&lt;/strong&gt; as well and is also studying at HBK Braunschweig (university of arts) took part in the exhibition. I helped conceptualizing the website, webapp and implemented the core structure for both. While Aaron took care of the content and design, I was mainly working on the maps used in the site.&lt;/p&gt;
@@ -69,10 +97,10 @@
     
     <item>
       <title>Stück 1998 — Manfred Werder — Pages 0761 - 0790</title>
-      <link>http://works.lmaa.name/product/stuck_1998/</link>
+      <link>http://localhost:1313/product/stuck_1998/</link>
       <pubDate>Thu, 30 Oct 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/stuck_1998/</guid>
+      <guid>http://localhost:1313/product/stuck_1998/</guid>
       <description>&lt;p&gt;SuperCollider transcription and live playback of about thirty pages of Manfred Werder&amp;rsquo;s elegant &amp;ldquo;Stück 1998&amp;rdquo;. Lacking a real Piano for the performance at HOME STREET HOME, or at least something pianoesque, this was a few long hours effort to produce a sound installation supplementing Aaron&amp;rsquo;s visual exhibition.&lt;/p&gt;
 
 &lt;p&gt;Realizing a day before the exhibition we will not have a piano for Lea to play a part of Manfred Werder&amp;rsquo;s composition, we decided to transcribe the sheet music (PDF) into a SuperCollider script.&lt;/p&gt;
@@ -93,20 +121,20 @@
     
     <item>
       <title>Surfer haben Rechte</title>
-      <link>http://works.lmaa.name/product/surfer_haben_rechte_de/</link>
+      <link>http://localhost:1313/product/surfer_haben_rechte_de/</link>
       <pubDate>Thu, 23 Oct 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/surfer_haben_rechte_de/</guid>
+      <guid>http://localhost:1313/product/surfer_haben_rechte_de/</guid>
       <description>&lt;p&gt;The IT-Team of the vzbv, my current employer, relaunched the website for the project &amp;ldquo;Surfer haben Rechte — Verbraucherrechte in der digitalen Welt&amp;rdquo; (Surfers have rights — consumer rights in the digital world). I helped building the infrastructure, migrate content, teach editors and customize the template.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rue Bunte</title>
-      <link>http://works.lmaa.name/product/rue_bunte_com/</link>
+      <link>http://localhost:1313/product/rue_bunte_com/</link>
       <pubDate>Tue, 20 Aug 2013 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/rue_bunte_com/</guid>
+      <guid>http://localhost:1313/product/rue_bunte_com/</guid>
       <description>&lt;p&gt;During my holidays on crete, a friend of mine and I had some spare time left and rebuilt the website for an art-collective-backyard-something in Berlin Neukölln they run. It should be simple, both in its aesthetics and its caring for. I called a friend of mine at work in germany to setup FTP and the domain and we went online before returning to germany.&lt;/p&gt;
 
 &lt;p&gt;My main goal was for Angelina to be able to add/edit events, pictures and content on her own. I decided to not use any content management system for it and helped her learn just a bit of markdown and handling ftp to publish a new version of the website.&lt;/p&gt;
@@ -117,10 +145,10 @@
     
     <item>
       <title>the radio</title>
-      <link>http://works.lmaa.name/product/the-radio/</link>
+      <link>http://localhost:1313/product/the-radio/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/the-radio/</guid>
+      <guid>http://localhost:1313/product/the-radio/</guid>
       <description>&lt;p&gt;One day, the old portable radio stopped working. I really liked it and promised to make bring it back to life. Cracked open I realized, I am not an electronics expert, and by far not a radio expert. My attempts to fix the radio itself failed miserably, so I tried to built an not reliably working mp3 player (with a working fm-radio) into the case an hook up a simple amplifier to it.&lt;/p&gt;
 
 &lt;p&gt;This failed as well, as you can see, these are the parts and each of them worked on its own. The amplifier, the speaker, the on/off/volume knob and so on. But putting it all together, it didn&amp;rsquo;t and that&amp;rsquo;s the state it is in now.&lt;/p&gt;
@@ -131,10 +159,10 @@
     
     <item>
       <title>Bewertungs Raster Anwendung</title>
-      <link>http://works.lmaa.name/product/bra_materialkompass_de/</link>
+      <link>http://localhost:1313/product/bra_materialkompass_de/</link>
       <pubDate>Wed, 07 Nov 2012 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/bra_materialkompass_de/</guid>
+      <guid>http://localhost:1313/product/bra_materialkompass_de/</guid>
       <description>&lt;p&gt;a internal web application for a small group of people reviewing educational publications by a strict reviewing schema.
 Reviews eventually get published on a website to aid teachers in selection educational material for their classes. Publication&amp;rsquo;s metadata is added by moderators and assigned to reviewers, quality controlled and then published via an external interface.&lt;/p&gt;
 
@@ -146,10 +174,10 @@ Reviews eventually get published on a website to aid teachers in selection educa
     
     <item>
       <title>artflakes.com</title>
-      <link>http://works.lmaa.name/product/artflakes_com/</link>
+      <link>http://localhost:1313/product/artflakes_com/</link>
       <pubDate>Tue, 30 Nov 2010 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/artflakes_com/</guid>
+      <guid>http://localhost:1313/product/artflakes_com/</guid>
       <description>&lt;p&gt;&lt;em&gt;a shopping portal for art prints on-demand.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;In a team of about 5 people we created a platform for photographers, illustrators, designers and even hobbyists to share and sell their art online.&lt;/p&gt;
@@ -168,20 +196,20 @@ Reviews eventually get published on a website to aid teachers in selection educa
     
     <item>
       <title>Head tracking museum</title>
-      <link>http://works.lmaa.name/product/head-tracking-museum/</link>
+      <link>http://localhost:1313/product/head-tracking-museum/</link>
       <pubDate>Sun, 01 Feb 2009 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/head-tracking-museum/</guid>
+      <guid>http://localhost:1313/product/head-tracking-museum/</guid>
       <description>&lt;p&gt;Tracking heads of people viewing a virtual exhibition. I worked on the OpenGL camera configuration to make everything look &lt;em&gt;correct&lt;/em&gt;, i.e. you think you a looking through a window into a museum.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Minority WiiPort</title>
-      <link>http://works.lmaa.name/product/minority-wiiport/</link>
+      <link>http://localhost:1313/product/minority-wiiport/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/minority-wiiport/</guid>
+      <guid>http://localhost:1313/product/minority-wiiport/</guid>
       <description>&lt;p&gt;Tracking hand gestures from a WiiMote mounted above a projection surface, letting you pinch &amp;amp; zoom images on the big screen from the tip of your fingers. I wrote the 3D rendering code using the OGRE Game engine.&lt;/p&gt;
 </description>
     </item>

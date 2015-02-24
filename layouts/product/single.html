@@ -1,25 +1,29 @@
 {{ template "theme/partials/header.html" . }}
-<div class="content-main">
-    <section>
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12">
-                    <h2>{{ .Title }}</h2>
-
-
-                    <div class="thumbnail col-xs-6">
-                        <img src="{{ .Site.BaseUrl }}/img/{{ .Params.image}}">
-                    </div>
-    
-                    <div class="col-xs-6">
-                    {{ partial "song" .Params.song }} {{ .Content }}
-
-                    {{ if isset .Params "homepage" }}<a href="{{ .Params.homepage }}" target="_blank">See the result here: {{ .Params.homepage }}</a>{{ end }}
-                    </div>
-                    
-                </div>
-            </div>
+{{ if isset .Params "screenshot" }}
+<section class="single-screenshot">
+  <div class="container animated-left">
+    <div class="row">
+      <div class="col-xs-12 col-sm-10 col-md-8 col-lg-6 col-xs-push-1 col-sm-push-2 col-md-push-3 col-lg-push-6">
+        <div class="content-aside">
+          <div class="thumbnail"><img src="{{ .Site.BaseUrl }}/img/{{ .Params.image }}" alt="">      </div>
         </div>
-    </section>
-</div>
+      </div>
+{{ else }}
+<section class="single-image-bg" style="background-image: url({{ .Site.BaseUrl }}/img/{{ .Params.image }});">
+  <div class="container">
+    <div class="row">
+{{ end }}
+      <div class="col-xs-12 col-sm-10 col-md-8 col-lg-6 {{ if isset .Params "screenshot" }}col-lg-pull-6{{ end}} content-main-single">
+        <div class="content-main">
+
+              <h2>{{ .Title }}</h2>
+
+              {{ partial "song" .Params.song }} {{ .Content }}
+
+              {{ if isset .Params "homepage" }}<a href="{{ .Params.homepage }}" target="_blank">See the result here: {{ .Params.homepage }}</a>{{ end }}
+          </div>
+      </div>
+    </div>
+  </div>
+</section>
 {{ template "theme/partials/footer.html" . }}

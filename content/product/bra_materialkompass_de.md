@@ -5,6 +5,7 @@ title = "Bewertungs Raster Anwendung"
 states = [ "done" ]
 categories = [ "application", "web" ]
 image = "bra.png"
+screenshot = true
 +++
 
 a internal web application for a small group of people reviewing educational publications by a strict reviewing schema.
@@ -13,4 +14,3 @@ Reviews eventually get published on a website to aid teachers in selection educa
 The application was built based on Symfony 2 and features a complete workflow engine and a complex 8 tabbed form that tries to avoid usual the pains of editing lengthy, complex forms by visual hints of completeness rather than displaying the notorious error messages.
 
 Export is done via exposing a JSON REST interface of the published reviews, which get picked up by a separate website that consumes reviews and displays them on a website.
-

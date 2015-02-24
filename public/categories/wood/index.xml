@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wood on Lennart Melzer</title>
+    <link>http://localhost:1313/categories/wood/</link>
+    <description>Recent content in Wood on Lennart Melzer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
+    <lastBuildDate>Sun, 08 Feb 2015 00:00:00 UTC</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/wood/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The table</title>
+      <link>http://localhost:1313/product/the-table/</link>
+      <pubDate>Sun, 08 Feb 2015 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/the-table/</guid>
+      <description>&lt;p&gt;When I moved into my apartment about three years ago, I wanted to &lt;em&gt;build&lt;/em&gt; a table.  Passion seems to have kept me working on it until I finished it with a friend of mine using only wood, wood, glue and adjustable, metal feet.&lt;/p&gt;
+
+&lt;p&gt;Not that I necessarily needed one or am very knowledgable about woodcraft, I just found for wooden legs in my stairway, so I built a tabletop for them.&lt;/p&gt;
+
+&lt;p&gt;The tabletop is built from two (originally three) planks—usually used for floors—cut into halves.&lt;/p&gt;
+
+
+&lt;figure class=&#34;pull-right&#34;&gt;
+    
+        &lt;img src=&#34;/img/thumbs/content/the-table-02.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;clean and empty, like never&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

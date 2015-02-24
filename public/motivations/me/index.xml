@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Me on Lennart Melzer</title>
-    <link>http://works.lmaa.name/motivations/me/</link>
+    <link>http://localhost:1313/motivations/me/</link>
     <description>Recent content in Me on Lennart Melzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
     <lastBuildDate>Sun, 21 Dec 2014 18:41:50 CET</lastBuildDate>
-    <atom:link href="http://works.lmaa.name/motivations/me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/motivations/me/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Elle-Ian Anney-Arty</title>
-      <link>http://works.lmaa.name/product/elle-ian-anney-arty/</link>
+      <link>http://localhost:1313/product/elle-ian-anney-arty/</link>
       <pubDate>Sun, 21 Dec 2014 18:41:50 CET</pubDate>
       
-      <guid>http://works.lmaa.name/product/elle-ian-anney-arty/</guid>
+      <guid>http://localhost:1313/product/elle-ian-anney-arty/</guid>
       <description>&lt;p&gt;Synthesized, experimental music. Antistructural, desystematic—improvised—project for publishing products that I sometimes record.&lt;/p&gt;
 
 &lt;p&gt;Developing software led me to find other use cases of programming: synthesizers. Finding a balance between coded environments, realtime interaction with synthesizer parameters via hard and software and blind improvisation, &lt;strong&gt;Elle-Ian Anney-Arty&lt;/strong&gt; is the bucket within which I irregularly drop pieces that came to existance by the above methods.&lt;/p&gt;
@@ -25,10 +25,10 @@
     
     <item>
       <title>Documentation: Tidal</title>
-      <link>http://works.lmaa.name/product/tidal-documentation/</link>
+      <link>http://localhost:1313/product/tidal-documentation/</link>
       <pubDate>Sat, 01 Nov 2014 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/tidal-documentation/</guid>
+      <guid>http://localhost:1313/product/tidal-documentation/</guid>
       <description>&lt;p&gt;Having just recently learned about live coding in general, I got to know Tidal, a domain specific pattern language for live coding written in Haskell. Struggling with the hitherto state of the documentation being sprinkled across the mailing list, single Markdown files on github and the wiki, I put up a Github page and organized/themed the content that was already there.&lt;/p&gt;
 
 &lt;p&gt;Staying in contact with the developers of Tidal, I tried grasp the concepts behind Tidal to make the documentation both an easy start for beginners, a handy reference for users and a knowledge base for conceptually interested researchers.&lt;/p&gt;

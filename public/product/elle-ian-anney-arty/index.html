@@ -5,66 +5,81 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>Elle-Ian Anney-Arty</title>
-  <link rel="stylesheet" href="http://works.lmaa.name/css/splended.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/splended.css">
 </head>
 
 <body>
-  <div class="container">
-    <div class="row">
-      <div class="col-xs-12">
-        <h1><a href="http://works.lmaa.name">Index of my <em>works</em><br><small>or where it all begins</small></a>
-        </h1>
+  <div class="content-head">
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <h1>
+            <a href="http://localhost:1313" tabindex="1">Index</a>
+            <a href="#" id="page-info-icon" class="index-popover-button" tabindex="2">
+              <sup>
+                <small class="glyphicon glyphicon-question-sign"></small>
+                <div class="hidden popover-content"><p>
+  In order to keep an overview of all the things I do
+  <del>on a computer</del> I made this page.
+</p>
+<p>
+  What you are seeing is the main entry point from which each individual piece of my works can be reached.
+</p>
+<p>
+  Most of these projects are collaborative efforts. The whole is divided into rough chapters that map to periods of my life in the
+  <del>computing</del> world, others might say this is a curriculum vitae, I would rather call it a living document
+</p>
+</div>
+              </sup>
+            </a>
+          </h1>
+        </div>
       </div>
     </div>
   </div>
 
-<div class="content-main">
-    <section>
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12">
-                    <h2>Elle-Ian Anney-Arty</h2>
 
+<section class="single-image-bg" style="background-image: url(http://localhost:1313/img/eiaa.jpg);">
+  <div class="container">
+    <div class="row">
 
-                    <div class="thumbnail col-xs-6">
-                        <img src="http://works.lmaa.name/img/eiaa.jpg">
-                    </div>
-    
-                    <div class="col-xs-6">
-                    
+      <div class="col-xs-12 col-sm-10 col-md-8 col-lg-6  content-main-single">
+        <div class="content-main">
+
+              <h2>Elle-Ian Anney-Arty</h2>
+
+              
  <p>Synthesized, experimental music. Antistructural, desystematic—improvised—project for publishing products that I sometimes record.</p>
 
 <p>Developing software led me to find other use cases of programming: synthesizers. Finding a balance between coded environments, realtime interaction with synthesizer parameters via hard and software and blind improvisation, <strong>Elle-Ian Anney-Arty</strong> is the bucket within which I irregularly drop pieces that came to existance by the above methods.</p>
 
 
-                    <a href="http://eiaa.bandcamp.com" target="_blank">See the result here: http://eiaa.bandcamp.com</a>
-                    </div>
-                    
-                </div>
-            </div>
-        </div>
-    </section>
-</div>
+              <a href="http://eiaa.bandcamp.com" target="_blank">See the result here: http://eiaa.bandcamp.com</a>
+          </div>
+      </div>
+    </div>
+  </div>
+</section>
   <div class="footer-content">
     <div class="container">
       <div class="row">
         <div class="col-xs-8">
-          <p>Hi, my name is Lennart Melzer. That's L-E-N-N-A-R-T, the nordic version. My last name—Melzer (from the word malt, as used in e.g. beer)—originates from the craft of <a href="http://en.wikipedia.org/wiki/Brewing" target="_blank">brewing</a>. I do lots of sorts of things, some of which you could read above, others which I don't tell and even others still to come. If you want to contact me, for <em>any</em> reason, please do so through plain email via my first name at my last name dot the italian suffix for domains. (Since emails tend to be spammed, I am not writing my <em>real</em> email address here, if my first name would be <em>For</em>, my lastname <em>Example</em> and I'd be having a commercial suffix in my domain, it would be <strong>for@example.com</strong>, but it isn't).</p>
+          <p>Hi, my name is Lennart Melzer. That's L-E-N-N-A-R-T, the nordic version. My last name—Melzer (from the word malt, as used in e.g. beer)—originates from the craft of <a href="http://en.wikipedia.org/wiki/Brewing" target="_blank">brewing</a>. I do lots of sorts of things, some of which you could read above, others which I don't tell and even others still to come. If you want to contact me, for <em>any</em> reason, please do so through plain email via my first name at my last name dot the italian suffix for domains. (Since emails tend to be spammed, I am not writing my <em>real</em> email address here. So if my first name would be <em>For</em>, my lastname <em>Example</em> and I'd be having a commercial suffix in my domain, it would be <strong>for@example.com</strong>, but it isn't).</p>
 
         </div>
         <div class="col-xs-4">
           <ul class="footer-menu menu nav">
              
             <li>
-              <a href="http://works.lmaa.name#in-progress"><span class='glyphicon glyphicon-play'></span>&nbsp;<span>Current</span></a>
+              <a href="http://localhost:1313#in-progress"><span class='glyphicon glyphicon-play'></span>&nbsp;<span>Current</span></a>
             </li>
             
             <li>
-              <a href="http://works.lmaa.name#failed"><span class='glyphicon glyphicon-pause'></span>&nbsp;<span>Failed</span></a>
+              <a href="http://localhost:1313#failed"><span class='glyphicon glyphicon-pause'></span>&nbsp;<span>Failed</span></a>
             </li>
             
             <li>
-              <a href="http://works.lmaa.name#past"><span class='glyphicon glyphicon-stop'></span>&nbsp;<span>Past</span></a>
+              <a href="http://localhost:1313#past"><span class='glyphicon glyphicon-stop'></span>&nbsp;<span>Past</span></a>
             </li>
             
           </ul>
@@ -77,7 +92,13 @@
       </div>
     </div>
   </div>
-</body>
+  <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+  <script src="http://localhost:1313/js/index.js"></script>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 
 </html>
 

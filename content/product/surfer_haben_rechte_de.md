@@ -7,6 +7,7 @@ categories = [ "web", "privacy", "digital rights", "consumer" ]
 states = [ "done" ]
 motivations = []
 image = "shr.png"
+screenshot = true
 +++
 
 The IT-Team of the vzbv, my current employer, relaunched the website for the project "Surfer haben Rechte — Verbraucherrechte in der digitalen Welt" (Surfers have rights — consumer rights in the digital world). I helped building the infrastructure, migrate content, teach editors and customize the template.

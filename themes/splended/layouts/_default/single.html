@@ -1,20 +1,15 @@
 {{ template "theme/partials/header.html". }}
-<div class="content-main">
+<div class="content-main single-image-bg" style="background-image: url({{ .Site.BaseUrl }}/img/{{ .Params.image }});">
     <section>
         <div class="container">
             <div class="row">
-                <div class="col-xs-12">
-                    <h2>{{ .Title }}</h2>
+                <div class="col-xs-6">
+                  <h2>{{ .Title }}</h2>
 
-
-                    <div class="thumbnail col-xs-3">
-                        <img src="{{ .Site.BaseUrl }}/img/{{ .Params.image}}">
-                    </div>
-    
                     <div class="col-xs-9">
                     {{ partial "song" .Params.song }} {{ .Content }}
                     </div>
-                    
+
                 </div>
             </div>
         </div>

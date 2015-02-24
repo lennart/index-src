@@ -6,6 +6,7 @@ motivations = [ "friends" ]
 states = [ "done" ]
 categories = [ "music", "computer", "electronic" ]
 image = "stuck-1998.png"
+screenshot = true
 +++
 
 SuperCollider transcription and live playback of about thirty pages of Manfred Werder's elegant "Stück 1998". Lacking a real Piano for the performance at HOME STREET HOME, or at least something pianoesque, this was a few long hours effort to produce a sound installation supplementing Aaron's visual exhibition.
@@ -24,4 +25,3 @@ The SuperCollider script ran for four hours from my laptop (I luckily had with m
 During chats with visitors, many were trying to find a way to see _more_ of the exihibition, being lured to believe there has to be something else. Though no one explicity talked about the music being played, it seemed to have the expected effect on recipients: being unwillingly exposed to it without being aware of being so. No one was able to categorize or even form an opinion about the music being good, or bad, still it had a subtle effect on them.
 
 Technically we tried to leave the implementation as simple as possible, to keep with the spirit of the composition. The [Script](https://gist.github.com/lennart/fbb901667c19f66d3d4e) is about three hundred and fifty lines of code, from which two hundred and fifty are just the formatted lines of pitches.  Thirty lines for converting pitches to midi notes, roughly eleven lines for the tone generator, five for the pattern, four for playback control (though we didn't need to pause) and the rest are debug, or empty lines.
-

@@ -6,11 +6,10 @@ states = [ "done" ]
 categories = [ "application", "web" ]
 homepage = "http://artflakes.com"
 image = "af.png"
+screenshot = true
 [song]
-	title= "Surfing the warm industry"
-	artist= "Kashmir"
-	album= "Zitilites"
-  url= "https://www.youtube.com/watch?v=ztQP2P09vNo"
+	listen= "The lovely «Surfing the warm industry» performed live by Kashmir."
+  youtube= "ztQP2P09vNo"
 +++
 
 

@@ -7,6 +7,7 @@ motivations = [ "me" ]
 categories = [ "art", "music", "code", "web" ]
 homepage = "http://tidal.lurk.org"
 image = "tidal.png"
+screenshot = true
 +++
 
 Having just recently learned about live coding in general, I got to know Tidal, a domain specific pattern language for live coding written in Haskell. Struggling with the hitherto state of the documentation being sprinkled across the mailing list, single Markdown files on github and the wiki, I put up a Github page and organized/themed the content that was already there.
