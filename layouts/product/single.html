@@ -20,7 +20,15 @@
 
               {{ partial "song" .Params.song }} {{ .Content }}
 
-              {{ if isset .Params "homepage" }}<a href="{{ .Params.homepage }}" target="_blank">See the result here: {{ .Params.homepage }}</a>{{ end }}
+              {{ if isset .Params "homepage" }}
+                <a class="btn btn-primary" href="{{ .Params.homepage }}" target="_blank">
+                  {{ if isset .Params "homepagecaption" }}
+                    {{ .Params.homepagecaption }}
+                  {{ else }}
+                    {{ .Params.homepage }}
+                  {{ end }}
+                </a>
+              {{ end }}
           </div>
       </div>
     </div>

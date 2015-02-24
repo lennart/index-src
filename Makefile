@@ -18,7 +18,7 @@ serve:
 	hugo server -t splended -w
 
 build:
-	hugo -t splended --watch=false
+	rm -Rf public/ && hugo -t splended --watch=false
 
 deploy: images styles build
 	git subtree push --prefix public deploy master

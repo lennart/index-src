@@ -2,21 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Intrinsic on Lennart Melzer</title>
-    <link>http://works.lmaa.name/motivations/intrinsic/</link>
+    <link>http://localhost:1313/motivations/intrinsic/</link>
     <description>Recent content in Intrinsic on Lennart Melzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
     <copyright>&amp;copy; 2014 — Lennart Melzer; all rights reversed</copyright>
-    <lastBuildDate>Thu, 01 Aug 2013 00:00:00 UTC</lastBuildDate>
-    <atom:link href="http://works.lmaa.name/motivations/intrinsic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Dec 2014 18:41:50 CET</lastBuildDate>
+    <atom:link href="http://localhost:1313/motivations/intrinsic/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Elle-Ian Anney-Arty</title>
+      <link>http://localhost:1313/product/elle-ian-anney-arty/</link>
+      <pubDate>Sun, 21 Dec 2014 18:41:50 CET</pubDate>
+      
+      <guid>http://localhost:1313/product/elle-ian-anney-arty/</guid>
+      <description>&lt;p&gt;Synthesized, experimental music. Antistructural, desystematic—improvised—project for publishing products that I sometimes record.&lt;/p&gt;
+
+&lt;p&gt;Developing software led me to find other use cases of programming: synthesizers. Finding a balance between coded environments, realtime interaction with synthesizer parameters via hard and software and blind improvisation, &lt;strong&gt;Elle-Ian Anney-Arty&lt;/strong&gt; is the bucket within which I irregularly drop pieces that came to existance by the above methods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Documentation: Tidal</title>
+      <link>http://localhost:1313/product/tidal-documentation/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 UTC</pubDate>
+      
+      <guid>http://localhost:1313/product/tidal-documentation/</guid>
+      <description>&lt;p&gt;Having just recently learned about live coding in general, I got to know &lt;strong&gt;Tidal&lt;/strong&gt;, a domain specific pattern language for live coding written in &lt;strong&gt;Haskell&lt;/strong&gt;. Struggling with the hitherto state of the documentation being sprinkled across the mailing list, single &lt;strong&gt;Markdown&lt;/strong&gt; files on &lt;strong&gt;Github&lt;/strong&gt; and the wiki, I put up a &lt;em&gt;Github page&lt;/em&gt; and organized/themed the content that was already there.&lt;/p&gt;
+
+&lt;p&gt;Staying in contact with the developers of &lt;strong&gt;Tidal&lt;/strong&gt;, I tried grasp the concepts behind &lt;strong&gt;Tidal&lt;/strong&gt; to make the documentation both an easy start for beginners, a handy reference for users and a knowledge base for conceptually interested researchers.&lt;/p&gt;
+
+&lt;p&gt;Using only what github pages auto-build mechanism offers, I used twitter&amp;rsquo;s &lt;strong&gt;Bootstrap&lt;/strong&gt; in the sass variant and &lt;strong&gt;jekyll&lt;/strong&gt; as the base for the page. I ordered the documentation into multiple chapters ranging from easy to complex and structured the list of available functions into logical groups.&lt;/p&gt;
+
+&lt;p&gt;I added things like bootstrap&amp;rsquo;s scrollspy to help navigating a long list of menu entries and embedded syntax highlighting for the many code inlined snippets.&lt;/p&gt;
+
+&lt;p&gt;The documentation is kickstarted and released to the community to be continuously improved. Since I started working on it, others have contributed Howtos for &lt;strong&gt;MIDI&lt;/strong&gt; integration and just recently the editor Integration was updated to prefer the &lt;a href=&#34;http://atom.io&#34;&gt;Atom editor&lt;/a&gt; instead of &lt;a href=&#34;http://emacs.org&#34;&gt;emacs&lt;/a&gt; for beginners.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>the radio</title>
-      <link>http://works.lmaa.name/product/the-radio/</link>
+      <link>http://localhost:1313/product/the-radio/</link>
       <pubDate>Thu, 01 Aug 2013 00:00:00 UTC</pubDate>
       
-      <guid>http://works.lmaa.name/product/the-radio/</guid>
+      <guid>http://localhost:1313/product/the-radio/</guid>
       <description>&lt;p&gt;One day, the old portable radio stopped working. I really liked it and promised to make bring it back to life. Cracked open I realized, I am not an electronics expert, and by far not a radio expert. My attempts to fix the radio itself failed miserably, so I tried to built an not reliably working mp3 player (with a working fm-radio) into the case an hook up a simple amplifier to it.&lt;/p&gt;
 
 &lt;p&gt;This failed as well, as you can see, these are the parts and each of them worked on its own. The amplifier, the speaker, the on/off/volume knob and so on. But putting it all together, it didn&amp;rsquo;t and that&amp;rsquo;s the state it is in now.&lt;/p&gt;

@@ -3,9 +3,10 @@ date = "2014-12-21T18:41:50+01:00"
 draft = false
 title = "Elle-Ian Anney-Arty"
 states = [ "in_progress" ]
-motivations = [ "me" ]
+motivations = [ "intrinsic" ]
 image = "eiaa.jpg"
 homepage = "http://eiaa.bandcamp.com"
+homepagecaption = "Listen on Bandcamp"
 +++
 
 Synthesized, experimental music. Antistructural, desystematic—improvised—project for publishing products that I sometimes record.

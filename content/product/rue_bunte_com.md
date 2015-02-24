@@ -6,6 +6,7 @@ motivations = [ "friends" ]
 states = [ "done" ]
 categories = [ "web", "community", "events" ]
 homepage = "http://rue-bunte.com"
+homepagecaption = "Check out upcoming events"
 image = "rb.jpg"
 +++
 During my holidays on crete, a friend of mine and I had some spare time left and rebuilt the website for an art-collective-backyard-something in Berlin Neukölln they run. It should be simple, both in its aesthetics and its caring for. I called a friend of mine at work in germany to setup FTP and the domain and we went online before returning to germany.

@@ -6,6 +6,7 @@ states = [ "Done" ]
 motivations = [ "friends" ]
 categories = [ "art", "music", "audiowalk", "web", "application" ]
 homepage = "http://homestreethomebs.de"
+homepagecaption = "See the post-exhibition documentation"
 image = "hsh.png"
 +++
 

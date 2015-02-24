@@ -1,13 +1,22 @@
-@import url(http://fonts.googleapis.com/css?family=Lato:300,700);
-@import url(http://fonts.googleapis.com/css?family=PT+Serif:400,700);
-@import url(http://fonts.googleapis.com/css?family=Vollkorn:700|Old+Standard+TT:400,400italic);
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:200|Vollkorn:700|Old+Standard+TT:400,400italic,700);
 @import "variables.less";
-@link-color: darken(#001F3F, 4.5%);
+
+@default-color: darken(#001F3F, 4.5%);
+
+@brand-primary: spin(lighten(mix(@link-color, #fff, 90%), 65%), 175%);
+@btn-primary-bg: darken(@brand-primary, 15%);
+@link-color: @default-color;
+@footer-color: @brand-primary;
+@code-color: @gray;
+@code-bg: fadeout(@gray-lighter, 80%);
+
 @icon-font-path:          "../fonts/bootstrap/";
 @font-family-base: "Old Standard TT", "Palatino", "Georgia";
+@font-family-monospace: "Source Code Pro", "Menlo", "Monaco", "Courier";
 @font-size-base: 16px;
 @headings-font-family: "Vollkorn";
 @headings-font-weight:    700;
+
 
 @border-radius-base: 0;
 @border-radius-small: 0;
@@ -89,6 +98,11 @@
 
 .content-main {
 	min-height: 35em;
+
+  a {
+    letter-spacing: 2px;
+  }
+
 	section {
 		padding: @padding-large-vertical @padding-large-horizontal;
 
@@ -147,8 +161,6 @@
 
 
 .footer-content {
-  @footer-color: spin(lighten(mix(@link-color, #fff, 90%), 65%), 175%);
-
   padding: @padding-large-vertical*6 @padding-large-horizontal;
   line-height: 1.8;
 
